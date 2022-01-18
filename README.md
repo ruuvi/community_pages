@@ -1,6 +1,6 @@
 # FAQ: Beacon ID
 
-Ruuvi tags are based on the Nordic Semiconductor nRF52832 System On a Chip which includes bluetooth radio.
+Ruuvi sensors are based on the Nordic Semiconductor nRF52832 System On a Chip which includes bluetooth radio.
 
 The chip has several identifiers.
 
